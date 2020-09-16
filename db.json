@@ -1,4 +1,4 @@
-[
+{ "data": [
 	{
 		"vehicle": "Car",
 		"ownerName": "Bruno Antunes",
@@ -15,4 +15,5 @@
 		"details": "some detail aboudt Bill's Airplane"		
 	}
 ]
+}
 

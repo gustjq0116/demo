@@ -1,4 +1,4 @@
-{ "data": [
+[
 	{
 		"vehicle": "Car",
 		"ownerName": "Bruno Antunes",
@@ -16,4 +16,3 @@
 	}
 ]
 
-}

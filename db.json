@@ -1,17 +1,17 @@
 { "data": [
 	{
 		"vehicle": "Car",
-		"ownerName: "Bruno Antunes",
+		"ownerName": "Bruno Antunes",
 		"details": "some detail aboudt Bruno's Car"
 	},
 	{
 		"vehicle": "Bike",
-		"ownerName: "Ellon Musk",
+		"ownerName": "Ellon Musk",
 		"details": "some detail aboudt Ellon's Bike"		
 	},
 	{
 		"vehicle": "Airplane",
-		"ownerName: "Bill Gates",
+		"ownerName": "Bill Gates",
 		"details": "some detail aboudt Bill's Airplane"		
 	}
 ]
